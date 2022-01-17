@@ -32,9 +32,6 @@ This package isn't hosted on pip. So to get the code the easiest way is to use g
 
 ```
 git clone https://github.com/m1dnightc0der/tulipposition.git
-#
-# then one of:
-#
 python3 setup.py install # normal
 ```
 
@@ -63,6 +60,6 @@ I'll try and incorporate any feedback into the code, but this is a part time (an
 GNU v3
 ( See [LICENSE](LICENSE) )
 
-Absolutely no warranty is implied with this product. Use at your own risk. Use at your own risk. I am not registered or authorised by any financial regulator. 
+Absolutely no warranty is implied with this product. Use at your own risk. I am not registered or authorised by any financial regulator. 
 
 
